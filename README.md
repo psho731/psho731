@@ -17,16 +17,16 @@
   - 입사 신청과 생활관 배정 등 다양한 기능 제공
   - 4인 팀프로젝트
 
-## :ticket: CERTIFICATE
+## :identification_card: CERTIFICATE
 - 정보처리기능사(2019.07.18)
 - 컴퓨터활용능력(2022.04.22)
 
-## :mortar_board: EDUCATIONS
+## :book: EDUCATIONS
 - 금오공과대학교
   - 2023.03 - 재학 중
   - 학점: 3.87 / 4.50
 
-## ACTIVITIES
+## :running: ACTIVITIES
 - 보안 동아리(BOSS)
   - 2023.03 - 2024.12
   - 학술 동아리
