@@ -5,7 +5,7 @@
 - 변수나 함수의 네이밍을 알아보기 쉽도록 매번 고민합니다.
 
 ## :wrench: TECH STACKS
-- JAVA
+- Java
 - C++
 - Python
 - MYSQL
