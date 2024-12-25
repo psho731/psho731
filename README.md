@@ -8,7 +8,7 @@
 - Java
 - C++
 - Python
-- MYSQL
+- MySQL
 - Oracle Database
 - Linux
 
