@@ -8,8 +8,6 @@
 - MYSQL
 - Oracle Database
 - Linux
-- Spring Boot
-- AWS
 
 ## :bookmark_tabs: PROJECTS
 - 생활관 관리 시스템
