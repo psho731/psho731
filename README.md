@@ -11,6 +11,7 @@
 - MySQL
 - Oracle Database
 - Linux
+- AWS
 
 ## :bookmark_tabs: PROJECTS
 - 생활관 관리 시스템
